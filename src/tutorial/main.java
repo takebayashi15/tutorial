@@ -1,4 +1,4 @@
-//コメント
+//にゃーん
 package tutorial;
 
 public class main {
