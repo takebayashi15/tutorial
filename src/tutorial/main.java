@@ -12,6 +12,6 @@ public class main {
 //あああああああああああああいえうおんんんんんんんんんんんんんっんんんん
 		///uahfkjnadiuvhiuanfk
 		//konishiihiihihihi
-		
+		new takebayashi15().test();
 	}
 }
