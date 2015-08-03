@@ -8,7 +8,7 @@ public class main {
 		int b = 33;
 		int sum = a + b;
 		System.out.println("sum="+sum);
-		
+//あああああああああああああいえうおんんんんんんんんんんんんんっんんんん
 		
 	}
 }
