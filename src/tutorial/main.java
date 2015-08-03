@@ -10,6 +10,7 @@ public class main {
 		int sum = a + b;
 		System.out.println("sum="+sum);
 //あああああああああああああいえうおんんんんんんんんんんんんんっんんんん
+		///uahfkjnadiuvhiuanfk
 		
 	}
 }
